@@ -12,6 +12,6 @@ Such an example is the CASE2 reported in:
 "Stress changes caused by exsolution of magmatic fluids within an axi-symmetric inclusion" by Maria Elina Belardinelli, Massimo Nespoli and Maurizio Bonafede, GJI (2022)"
 
 
-Call_double_disk.m : generates the Stress field
-TPE_STRESS.m : function called by Call_double_disk.m
-Plot_stress.m: Script to plot the computed stress field.
+1) Call_double_disk.m : generates the Stress field
+2) TPE_STRESS.m : function called by Call_double_disk.m
+3) Plot_stress.m: Script to plot the computed stress field.
